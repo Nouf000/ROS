@@ -1,7 +1,12 @@
 # ROS
 Download Virtual Machine 2-download ubuntu
 
- important the ubuntu file in virtual machine 4- open the terminal on ubuntu 5- Install ROS Noetic 6- Make work space files 7- Install robot arm packages
+ important the ubuntu file in virtual machine 
+ 
+ open the terminal on ubuntu 
+ Install ROS Noetic
+ Make work space files 
+ Install robot arm packages
 
 sources: 1-virtual machine https://www.virtualbox.org/wiki/Downloads
 
